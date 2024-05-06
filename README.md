@@ -1,7 +1,7 @@
 # Windows-basic-commands-batchscript
-Ex08-Windows-basic-commands-batchscript      
-NAME:Nithish R
-REG.NO:212223040135
+# Ex08-Windows-basic-commands-batchscript      
+# NAME:mohamed aseem p
+# REG.NO:212221230063
 
 # AIM:
 To execute Windows basic commands and batch scripting
